@@ -29,11 +29,6 @@ This project proposes a smart IoT-based irrigation system that **automates water
 
 ---
 
-## 🖼️ Project Visuals
-
-| System Prototype | Certificate |
-|------------------|-------------|
-
 
 ---
 
