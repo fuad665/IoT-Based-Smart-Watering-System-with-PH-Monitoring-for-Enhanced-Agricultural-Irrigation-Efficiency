@@ -26,7 +26,6 @@ This project proposes a smart IoT-based irrigation system that **automates water
 | **Fuad Hiybo** | Developer & Tester |
 | **Aroua Talih**| Designer & Analyst |
 
-![Team Photo](images/team.jpg)
 
 ---
 
@@ -34,7 +33,7 @@ This project proposes a smart IoT-based irrigation system that **automates water
 
 | System Prototype | Certificate |
 |------------------|-------------|
-| ![System](images/system.jpg) | ![Certificate](images/certificate.jpg) |
+
 
 ---
 
